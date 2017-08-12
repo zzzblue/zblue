@@ -1,0 +1,10 @@
+# execute file
+*.exe
+*.ex4
+
+
+# text file
+*.txt
+
+# config file for ctags
+tags
